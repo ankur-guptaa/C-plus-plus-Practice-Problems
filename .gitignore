@@ -1,0 +1,7 @@
+.cph
+.vs
+.vscode
+*.exe
+*.bin
+test*.cpp
+tcs-mockvita-*.cpp
